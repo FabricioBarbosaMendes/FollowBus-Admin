@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "buslive-admin-apk",
+    "slug": "buslive-admin-apk",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "29b0f003-9475-4a92-99f3-5c78e30ea75c"
+      }
+    }
+  },
+  "name": "buslive-admin-apk"
+}
